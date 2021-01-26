@@ -27,7 +27,7 @@ module "launchpad-cluster" {
       max_capacity     = 10
       min_capacity     = 1
 
-      instance_type = "t2.micro"
+      instance_type = "t2.medium"
     }
   }
 
