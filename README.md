@@ -11,6 +11,7 @@ https://learn.hashicorp.com/tutorials/terraform/install-cli
 cd us-east1/launchpad
 terraform init
 terraform apply
+aws eks update-kubeconfig --region us-east-1 --name launchpad
 ```
 Follow the instructions from us-east1/launchpad/kubernetes
 
