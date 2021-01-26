@@ -1,0 +1,19 @@
+.DS_Store
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+.terraform
+terraform.tfstate.d
+terraform.tfvars
+apply*.log
+*.pem
+*.pub
+*.war
+conf
+*.lock.hcl
+kubeconfig_*
+
+# IDE/Editor data
+.idea/
+
+node_modules
