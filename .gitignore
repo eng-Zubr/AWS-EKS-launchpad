@@ -11,6 +11,7 @@ apply*.log
 *.war
 conf
 *.lock.hcl
+kubeconfig_*
 
 # IDE/Editor data
 .idea/
