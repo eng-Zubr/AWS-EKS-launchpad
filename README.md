@@ -2,10 +2,10 @@
 
 To roll-out please follow the instructions:
 
-Install and configure AWS CLI, kubectl & Terraform
-https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
-https://kubernetes.io/docs/tasks/tools/install-kubectl/
-https://learn.hashicorp.com/tutorials/terraform/install-cli
+Install and configure AWS CLI, kubectl & Terraform </br >
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html </br >
+https://kubernetes.io/docs/tasks/tools/install-kubectl/ </br >
+https://learn.hashicorp.com/tutorials/terraform/install-cli </br >
 
 ```bash
 cd us-east1/launchpad
